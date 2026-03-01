@@ -1,0 +1,9 @@
+{
+  "id": "openclaw-health-plugin",
+  "kind": "tool",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
