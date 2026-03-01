@@ -1,5 +1,5 @@
 {
-  "name": "@openclaw/health-query",
+  "name": "@openclaw/openclaw-health-plugin",
   "version": "0.1.0",
   "type": "module",
   "dependencies": {},
